@@ -14,4 +14,4 @@ Pima-Indian-Diabetes Dataset
 
 5. Find the relationship between various attributes.
 
-6.State your insights from the dataset.
+6. State your insights from the dataset.
